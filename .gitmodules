@@ -58,3 +58,6 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/fswitch"]
+	path = bundle/fswitch
+	url = https://github.com/derekwyatt/vim-fswitch
