@@ -54,4 +54,4 @@
 	url = https://github.com/vim-scripts/YankRing.vim.git
 [submodule "bundle/taglist"]
 	path = bundle/taglist
-	url = https://github.com/vim-scripts/taglist.vim.git
+	url = https://github.com/yazug/vim-taglist-plus.git
