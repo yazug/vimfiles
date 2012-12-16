@@ -291,3 +291,5 @@ endfunction
 autocmd filetype svn,*commit* setlocal spell
 
 
+set bg=dark " set a dark background for color schemes
+colorscheme blacksea
