@@ -43,9 +43,6 @@
 [submodule "bundle/MatchTag"]
 	path = bundle/MatchTag
 	url = https://github.com/gregsexton/MatchTag.git
-[submodule "bundle/yankring"]
-	path = bundle/yankring
-	url = https://github.com/vim-scripts/YankRing.vim.git
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = https://github.com/yazug/vim-taglist-plus.git
