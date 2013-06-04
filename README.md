@@ -19,3 +19,7 @@ or by sourcing it from  your own ~/.vimrc:
 Notes:
 ========
 Based on https://github.com/scrooloose/vimfiles.git
+
+Update Submodules
+=================
+git submodule foreach git pull origin master
