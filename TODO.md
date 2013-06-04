@@ -24,3 +24,6 @@ matrix-vim
 localvimrc
 
 jinja--Yang
+
+https://github.com/davidhalter/jedi-vim
+
