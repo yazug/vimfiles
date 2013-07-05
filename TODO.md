@@ -27,3 +27,7 @@ jinja--Yang
 
 https://github.com/davidhalter/jedi-vim
 
+vimux - easily interact with tmux from within vim
+
+youcompleteme (uses clang? for code completion)
+
