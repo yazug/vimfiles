@@ -31,3 +31,6 @@ vimux - easily interact with tmux from within vim
 
 youcompleteme (uses clang? for code completion)
 
+
+more reading about filetypes http://learnvimscriptthehardway.stevelosh.com/chapters/44.html
+Need to get SCons to be recognized correctly for syntax and style checking
