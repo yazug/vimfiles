@@ -55,3 +55,6 @@
 [submodule "bundle/scons-syntax"]
 	path = bundle/scons-syntax
 	url = https://github.com/vim-scripts/scons.vim
+[submodule "bundle/vim-protobuf"]
+	path = bundle/vim-protobuf
+	url = git://github.com/uarun/vim-protobuf.git
