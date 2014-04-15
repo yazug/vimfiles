@@ -58,3 +58,6 @@
 [submodule "bundle/vim-protobuf"]
 	path = bundle/vim-protobuf
 	url = git://github.com/uarun/vim-protobuf.git
+[submodule "bundles/vimux"]
+	path = bundles/vimux
+	url = https://github.com/benmills/vimux.git
