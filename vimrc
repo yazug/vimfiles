@@ -37,17 +37,6 @@ endif
 "default indent settings
 set autoindent
 
-"folding settings
-set foldmethod=indent   "fold based on indent
-set foldnestmax=3       "deepest fold is 3 levels
-set nofoldenable        "dont fold by default
-
-set wildmode=list:longest   "make cmdline tab completion similar to bash
-set wildmenu                "enable ctrl-n and ctrl-p to scroll thru matches
-set wildignore=*.o,*.obj,*~ "stuff to ignore when tab completing
-
-set formatoptions-=o "dont continue comments when pushing o/O
-
 "vertical/horizontal scroll off settings
 set scrolloff=3
 set sidescrolloff=7
@@ -61,8 +50,8 @@ filetype indent on
 syntax on
 
 "some stuff to get the mouse going in term
-set mouse=a
-set ttymouse=xterm2
+"set mouse=a
+"set ttymouse=xterm2
 
 "tell the term has 256 colors
 set t_Co=256
@@ -237,14 +226,8 @@ function! s:Median(nums)
     endif
 endfunction
 
-"nerdtree settings
-let g:NERDTreeMouseMode = 2
-let g:NERDTreeWinSize = 40
-
 "explorer mappings
-nnoremap <f1> :BufExplorer<cr>
-nnoremap <f2> :NERDTreeToggle<cr>
-nnoremap <f3> :TagbarToggle<cr>
+"nnoremap <f3> :TagbarToggle<cr>
 
 "source project specific config files
 runtime! projects/**/*.vim
@@ -298,7 +281,7 @@ colorscheme blacksea
 let g:syntastic_python_checker = 'flake8'
 " Disable E501(over 79 chars), W191(tabs instead of space), W391(blank line at
 " end of file
-let g:syntastic_python_flake8_args='--ignore=E501,W191,W391'
+let g:syntastic_python_flake8_args='--ignore=E501,W391'
 
 let g:syntastic_check_on_open=1
 let g:syntastic_enable_signs=0

@@ -1,66 +1,21 @@
 [submodule "bundle/git-runtime"]
 	path = bundle/git-runtime
 	url = https://github.com/tpope/vim-git.git
-[submodule "bundle/endwise"]
-	path = bundle/endwise
-	url = https://github.com/tpope/vim-endwise.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/csapprox"]
 	path = bundle/csapprox
 	url = https://github.com/godlygeek/csapprox.git
-[submodule "bundle/bufexplorer"]
-	path = bundle/bufexplorer
-	url = https://github.com/vim-scripts/bufexplorer.zip.git
 [submodule "bundle/indexed-search"]
 	path = bundle/indexed-search
 	url = https://github.com/vim-scripts/IndexedSearch.git
-[submodule "bundle/delimitMate"]
-	path = bundle/delimitMate
-	url = https://github.com/vim-scripts/delimitMate.vim.git
-[submodule "bundle/matchit"]
-	path = bundle/matchit
-	url = https://github.com/vim-scripts/matchit.zip.git
-[submodule "bundle/markdown-runtime"]
-	path = bundle/markdown-runtime
-	url = https://github.com/tpope/vim-markdown.git
-[submodule "bundle/gundo"]
-	path = bundle/gundo
-	url = https://github.com/sjl/gundo.vim.git
-[submodule "bundle/ctrlp"]
-	path = bundle/ctrlp
-	url = https://github.com/kien/ctrlp.vim.git
-[submodule "bundle/repeat"]
-	path = bundle/repeat
-	url = https://github.com/tpope/vim-repeat.git
-[submodule "bundle/ack"]
-	path = bundle/ack
-	url = https://github.com/mileszs/ack.vim.git
-[submodule "bundle/tagbar"]
-	path = bundle/tagbar
-	url = git://github.com/majutsushi/tagbar
-[submodule "bundle/MatchTag"]
-	path = bundle/MatchTag
-	url = https://github.com/gregsexton/MatchTag.git
-[submodule "bundle/taglist"]
-	path = bundle/taglist
-	url = https://github.com/yazug/vim-taglist-plus.git
-[submodule "bundle/supertab"]
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/fswitch"]
 	path = bundle/fswitch
 	url = https://github.com/derekwyatt/vim-fswitch
 [submodule "bundle/scons-syntax"]
 	path = bundle/scons-syntax
 	url = https://github.com/vim-scripts/scons.vim
-[submodule "bundle/vim-protobuf"]
-	path = bundle/vim-protobuf
-	url = git://github.com/uarun/vim-protobuf.git
-[submodule "bundles/vimux"]
-	path = bundles/vimux
-	url = https://github.com/benmills/vimux.git
 [submodule "bundle/vimux"]
 	path = bundle/vimux
 	url = https://github.com/benmills/vimux.git
